@@ -7,4 +7,4 @@ Make use of the `docker container --rm` (or `docker --rm`) option to save the ne
 * ubuntu: `apt-get update` and `apt-get install curl`
 * centos: `yum update curl`
 
-*Hint*: Use `curl --verion` to check the curl version.
+*Hint*: Use `curl --version` to check the curl version.
